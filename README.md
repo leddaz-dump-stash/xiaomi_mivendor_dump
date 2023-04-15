@@ -1,0 +1,14 @@
+# missi_phone_global-user 13 TKQ1.220905.001 V14.0.4.0.TMCMIXM release-keys
+- manufacturer: xiaomi
+- platform: kalama
+- codename: mivendor
+- flavor: missi_phone_global-user
+- release: 13
+- id: TKQ1.220905.001
+- incremental: V14.0.4.0.TMCMIXM
+- tags: release-keys
+- fingerprint: Xiaomi/mivendor_sm8550_global/mivendor:13/TKQ1.220905.001/V14.0.4.0.TMCMIXM:user/release-keys
+- is_ab: true
+- brand: Xiaomi
+- branch: missi_phone_global-user-13-TKQ1.220905.001-V14.0.4.0.TMCMIXM-release-keys
+- repo: xiaomi_mivendor_dump
